@@ -1,0 +1,58 @@
+{
+  "item.advanced-equipment.advanced_diamond_sword": "Advanced Diamond Sword",
+  "item.advanced-equipment.advanced_iron_sword": "Advanced Iron Sword",
+  "item.advanced-equipment.advanced_netherite_sword": "Advanced Netherite Sword",
+  "item.advanced-equipment.advanced_golden_sword": "Advanced Golden Sword",
+  "item.advanced-equipment.advanced_stone_sword": "Advanced Stone Sword",
+  "item.advanced-equipment.advanced_wooden_sword": "Advanced Wooden Sword",
+
+  "item.advanced-equipment.advanced_diamond_pickaxe": "Advanced Diamond Pickaxe",
+  "item.advanced-equipment.advanced_iron_pickaxe": "Advanced Iron Pickaxe",
+  "item.advanced-equipment.advanced_netherite_pickaxe": "Advanced Netherite Pickaxe",
+  "item.advanced-equipment.advanced_golden_pickaxe": "Advanced Golden Pickaxe",
+  "item.advanced-equipment.advanced_stone_pickaxe": "Advanced Stone Pickaxe",
+  "item.advanced-equipment.advanced_wooden_pickaxe": "Advanced Wooden Pickaxe",
+
+  "item.advanced-equipment.advanced_diamond_shovel": "Advanced Diamond Shovel",
+  "item.advanced-equipment.advanced_iron_shovel": "Advanced Iron Shovel",
+  "item.advanced-equipment.advanced_netherite_shovel": "Advanced Netherite Shovel",
+  "item.advanced-equipment.advanced_golden_shovel": "Advanced Golden Shovel",
+  "item.advanced-equipment.advanced_stone_shovel": "Advanced Stone Shovel",
+  "item.advanced-equipment.advanced_wooden_shovel": "Advanced Wooden Shovel",
+
+  "item.advanced-equipment.advanced_diamond_axe": "Advanced Diamond Axe",
+  "item.advanced-equipment.advanced_iron_axe": "Advanced Iron Axe",
+  "item.advanced-equipment.advanced_netherite_axe": "Advanced Netherite Axe",
+  "item.advanced-equipment.advanced_golden_axe": "Advanced Golden Axe",
+  "item.advanced-equipment.advanced_stone_axe": "Advanced Stone Axe",
+  "item.advanced-equipment.advanced_wooden_axe": "Advanced Wooden Axe",
+
+  "item.advanced-equipment.advanced_diamond_hoe": "Advanced Diamond Hoe",
+  "item.advanced-equipment.advanced_iron_hoe": "Advanced Iron Hoe",
+  "item.advanced-equipment.advanced_netherite_hoe": "Advanced Netherite Hoe",
+  "item.advanced-equipment.advanced_golden_hoe": "Advanced Golden Hoe",
+  "item.advanced-equipment.advanced_stone_hoe": "Advanced Stone Hoe",
+  "item.advanced-equipment.advanced_wooden_hoe": "Advanced Wooden Hoe",
+
+  "item.advanced-equipment.advanced_iron_helmet": "Advanced Iron Helmet",
+  "item.advanced-equipment.advanced_iron_chestplate": "Advanced Iron Chestplate",
+  "item.advanced-equipment.advanced_iron_leggings": "Advanced Iron Leggings",
+  "item.advanced-equipment.advanced_iron_boots": "Advanced Iron Boots",
+
+  "item.advanced-equipment.advanced_golden_helmet": "Advanced Golden Helmet",
+  "item.advanced-equipment.advanced_golden_chestplate": "Advanced Golden Chestplate",
+  "item.advanced-equipment.advanced_golden_leggings": "Advanced Golden Leggings",
+  "item.advanced-equipment.advanced_golden_boots": "Advanced Golden Boots",
+
+  "item.advanced-equipment.advanced_diamond_helmet": "Advanced Diamond Helmet",
+  "item.advanced-equipment.advanced_diamond_chestplate": "Advanced Diamond Chestplate",
+  "item.advanced-equipment.advanced_diamond_leggings": "Advanced Diamond Leggings",
+  "item.advanced-equipment.advanced_diamond_boots": "Advanced Diamond Boots",
+
+  "item.advanced-equipment.advanced_netherite_helmet": "Advanced Netherite Helmet",
+  "item.advanced-equipment.advanced_netherite_chestplate": "Advanced Netherite Chestplate",
+  "item.advanced-equipment.advanced_netherite_leggings": "Advanced Netherite Leggings",
+  "item.advanced-equipment.advanced_netherite_boots": "Advanced Netherite Boots",
+
+  "itemgroup.advanced_equipment.advanced_equipment_items": "Advanced Equipment"
+}

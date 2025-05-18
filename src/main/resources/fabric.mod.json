@@ -1,0 +1,40 @@
+{
+	"schemaVersion": 1,
+	"id": "advanced-equipment",
+	"version": "${version}",
+	"name": "Advanced Equipment",
+	"description": "This mod adds new advanced tools and armor that either deal more damage or let you take more damage.",
+	"authors": [
+		"Fneifnox"
+	],
+	"contact": {
+		"homepage": "https://discord.gg/bszSDCq5ms",
+		"sources": "https://modrinth.com/mod/advanced-equipment"
+	},
+	"license": "Advanced-Equipment",
+	"icon": "assets/advanced-equipment/icon.png",
+	"environment": "*",
+	"entrypoints": {
+		"main": [
+			"net.fneifnox.advancedequipment.AdvancedEquipment"
+		],
+		"fabric-datagen": [
+			"net.fneifnox.advancedequipment.AdvancedEquipmentDataGenerator"
+		],
+		"client": [
+			"net.fneifnox.advancedequipment.AdvancedEquipmentClient"
+		]
+	},
+	"mixins": [
+		"advanced-equipment.mixins.json"
+	],
+	"depends": {
+		"fabricloader": ">=0.16.14",
+		"minecraft": ">=1.21 <1.21.2",
+		"java": ">=21",
+		"fabric-api": "*"
+	},
+	"suggests": {
+		"another-mod": "*"
+	}
+}

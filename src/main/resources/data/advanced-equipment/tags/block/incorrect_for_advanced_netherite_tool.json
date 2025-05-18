@@ -1,0 +1,8 @@
+{
+  "values": [
+    "#minecraft:incorrect_for_netherite_tool"
+  ],
+  "remove": [
+    "#advanced-equipment:needs_advanced_netherite_tool"
+  ]
+}

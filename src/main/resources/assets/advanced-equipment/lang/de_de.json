@@ -1,0 +1,58 @@
+{
+  "item.advanced-equipment.advanced_diamond_sword": "Fortgeschrittenes Diamantschwert",
+  "item.advanced-equipment.advanced_iron_sword": "Fortgeschrittenes Eisenschwert",
+  "item.advanced-equipment.advanced_netherite_sword": "Fortgeschrittenes Netheritschwert",
+  "item.advanced-equipment.advanced_golden_sword": "Fortgeschrittenes Goldschwert",
+  "item.advanced-equipment.advanced_stone_sword": "Fortgeschrittenes Steinschwert",
+  "item.advanced-equipment.advanced_wooden_sword": "Fortgeschrittenes Holzschwert",
+
+  "item.advanced-equipment.advanced_diamond_pickaxe": "Fortgeschrittene Diamantspitzhacke",
+  "item.advanced-equipment.advanced_iron_pickaxe": "Fortgeschrittene Eisenspitzhacke",
+  "item.advanced-equipment.advanced_netherite_pickaxe": "Fortgeschrittene Netheritspitzhacke",
+  "item.advanced-equipment.advanced_golden_pickaxe": "Fortgeschrittene Goldspitzhacke",
+  "item.advanced-equipment.advanced_stone_pickaxe": "Fortgeschrittene Steinspitzhacke",
+  "item.advanced-equipment.advanced_wooden_pickaxe": "Fortgeschrittene Holzspitzhacke",
+
+  "item.advanced-equipment.advanced_diamond_shovel": "Fortgeschrittene Diamantschaufel",
+  "item.advanced-equipment.advanced_iron_shovel": "Fortgeschrittene Eisenschaufel",
+  "item.advanced-equipment.advanced_netherite_shovel": "Fortgeschrittene Netheritschaufel",
+  "item.advanced-equipment.advanced_golden_shovel": "Fortgeschrittene Goldschaufel",
+  "item.advanced-equipment.advanced_stone_shovel": "Fortgeschrittene Steinschaufel",
+  "item.advanced-equipment.advanced_wooden_shovel": "Fortgeschrittene Holzschaufel",
+
+  "item.advanced-equipment.advanced_diamond_axe": "Fortgeschrittene Diamantaxt",
+  "item.advanced-equipment.advanced_iron_axe": "Fortgeschrittene Eisenaxt",
+  "item.advanced-equipment.advanced_netherite_axe": "Fortgeschrittene Netheritaxt",
+  "item.advanced-equipment.advanced_golden_axe": "Fortgeschrittene Goldaxt",
+  "item.advanced-equipment.advanced_stone_axe": "Fortgeschrittene Steinaxt",
+  "item.advanced-equipment.advanced_wooden_axe": "Fortgeschrittene Holzaxt",
+
+  "item.advanced-equipment.advanced_diamond_hoe": "Fortgeschrittene Diamanthacke",
+  "item.advanced-equipment.advanced_iron_hoe": "Fortgeschrittene Eisenhacke",
+  "item.advanced-equipment.advanced_netherite_hoe": "Fortgeschrittene Netherithacke",
+  "item.advanced-equipment.advanced_golden_hoe": "Fortgeschrittene Goldhacke",
+  "item.advanced-equipment.advanced_stone_hoe": "Fortgeschrittene Steinhacke",
+  "item.advanced-equipment.advanced_wooden_hoe": "Fortgeschrittene Holzhacke",
+
+  "item.advanced-equipment.advanced_iron_helmet": "Fortgeschrittener Eisenhelm",
+  "item.advanced-equipment.advanced_iron_chestplate": "Fortgeschrittener Eisenharnisch",
+  "item.advanced-equipment.advanced_iron_leggings": "Fortgeschrittener Eisenbeinschutz",
+  "item.advanced-equipment.advanced_iron_boots": "Fortgeschrittene Eisenstiefel",
+
+  "item.advanced-equipment.advanced_golden_helmet": "Fortgeschrittener Goldhelm",
+  "item.advanced-equipment.advanced_golden_chestplate": "Fortgeschrittener Goldharnisch",
+  "item.advanced-equipment.advanced_golden_leggings": "Fortgeschrittener Goldbeinschutz",
+  "item.advanced-equipment.advanced_golden_boots": "Fortgeschrittene Goldstiefel",
+
+  "item.advanced-equipment.advanced_diamond_helmet": "Fortgeschrittener Diamanthelm",
+  "item.advanced-equipment.advanced_diamond_chestplate": "Fortgeschrittener Diamantharnisch",
+  "item.advanced-equipment.advanced_diamond_leggings": "Fortgeschrittener Diamantbeinschutz",
+  "item.advanced-equipment.advanced_diamond_boots": "Fortgeschrittene Diamantstiefel",
+
+  "item.advanced-equipment.advanced_netherite_helmet": "Fortgeschrittener Netherithelm",
+  "item.advanced-equipment.advanced_netherite_chestplate": "Fortgeschrittener Netheritharnisch",
+  "item.advanced-equipment.advanced_netherite_leggings": "Fortgeschrittener Netheritbeinschutz",
+  "item.advanced-equipment.advanced_netherite_boots": "Fortgeschrittene Netheritstiefel",
+
+  "itemgroup.advanced_equipment.advanced_equipment_items": "Advanced Equipment"
+}

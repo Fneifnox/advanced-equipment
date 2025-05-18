@@ -1,0 +1,8 @@
+{
+  "values": [
+    "#minecraft:incorrect_for_wooden_tool"
+  ],
+  "remove": [
+    "#advanced-equipment:needs_advanced_wooden_tool"
+  ]
+}

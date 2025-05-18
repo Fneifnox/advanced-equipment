@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/handheld",
+  "textures": {
+    "layer0": "advanced-equipment:item/advanced_stone_shovel"
+  }
+}
