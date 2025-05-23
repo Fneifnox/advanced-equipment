@@ -1,7 +1,7 @@
 package net.fneifnox.advancedequipment.item;
 
-import net.fabricmc.fabric.api.itemgroup.v1.ItemGroupEvents;
 import net.fneifnox.advancedequipment.AdvancedEquipment;
+import net.fneifnox.advancedequipment.item.custom.ModArmorItem;
 import net.minecraft.item.*;
 import net.minecraft.registry.Registries;
 import net.minecraft.registry.Registry;
@@ -149,7 +149,7 @@ public class ModItems {
                     .maxDamage(ArmorItem.Type.BOOTS.getMaxDamage(66))));
 
     public static final Item ADVANCED_NETHERITE_HELMET = registerItem("advanced_netherite_helmet",
-            new ArmorItem(ModArmorMaterials.ADVANCED_NETHERITE_ARMOR_MATERIAL, ArmorItem.Type.HELMET, new Item.Settings()
+            new ModArmorItem(ModArmorMaterials.ADVANCED_NETHERITE_ARMOR_MATERIAL, ArmorItem.Type.HELMET, new Item.Settings()
                     .fireproof()
                     .maxDamage(ArmorItem.Type.HELMET.getMaxDamage(74))));
     public static final Item ADVANCED_NETHERITE_CHESTPLATE = registerItem("advanced_netherite_chestplate",
